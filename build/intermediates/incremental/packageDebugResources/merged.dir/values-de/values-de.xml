@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_rater_button_cancel">Nein</string>
+    <string name="app_rater_button_later">Später</string>
+    <string name="app_rater_button_rate_on_store">Bewerten Sie uns im Play Store</string>
+    <string name="app_rater_button_submit">Einreichen</string>
+    <string name="app_rater_comment_copied">Ihr Kommentar wird in die Zwischenablage kopiert.</string>
+    <string name="app_rater_description">Sie können zur Entwicklung dieser App mit Ihrer 5-Sterne-Bewertung beitragen. Möchtest du uns helfen, diese App zu verbessern?</string>
+    <string name="app_rater_description_low_rating">Bitte lassen Sie uns wissen, wie können wir uns verbessern?</string>
+    <string name="app_rater_edit_text_hint_comment">Bitte schreiben Sie Ihren Kommentar hier ...</string>
+    <string name="app_rater_message_thanks">Danke für Ihre Unterstützung.</string>
+    <string name="app_rater_star_description_1">Furchtbar</string>
+    <string name="app_rater_star_description_2">Sehr schlecht</string>
+    <string name="app_rater_star_description_3">Schlecht</string>
+    <string name="app_rater_star_description_4">Gut</string>
+    <string name="app_rater_star_description_5">Sehr gut</string>
+    <string name="app_rater_thanks_5_stars">Danke für die 5 Sterne.</string>
+    <string name="app_rater_title">Bewerte diese App</string>
+    <string name="app_rater_write_store_review">Helfen Sie unserer wachsenden Community mit Ihren großartigen Meinungen zu dieser App.</string>
+</resources>

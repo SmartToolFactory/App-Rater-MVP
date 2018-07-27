@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_rater_title">Bizi Değerlendirin</string>
+    <string name="app_rater_description">Bu uygulamanın geliştirilmesine 5 yıldızlı derecenizle katkıda bulunabilirsiniz. Bu uygulamayı geliştirmemize yardımcı olmak ister misiniz?</string>
+    <string name="app_rater_description_low_rating">Lütfen bize bildirin, kendimizi nasıl geliştirebiliriz?</string>
+    <string name="app_rater_edit_text_hint_comment">Lütfen yorumunuzu buraya yazınız…</string>
+    <string name="app_rater_comment_copied">Yorumunuz panoya kopyalandı.</string>
+    <string name="app_rater_message_thanks">Desteğin için teşekkürler.</string>
+    <string name="app_rater_star_description_5">Çok İyi</string>
+    <string name="app_rater_star_description_4">İyi</string>
+    <string name="app_rater_star_description_3">Kötü</string>
+    <string name="app_rater_star_description_2">Çok kötü</string>
+    <string name="app_rater_star_description_1">Berbat</string>
+    <string name="app_rater_button_submit">Gönder</string>
+    <string name="app_rater_button_later">Sonra</string>
+    <string name="app_rater_button_cancel">Hayır</string>
+    <string name="app_rater_button_rate_on_store">Bizi Play Store\'da değerlendirin</string>
+    <string name="app_rater_thanks_5_stars">5 yıldız için teşekkürler.</string>
+    <string name="app_rater_write_store_review">Bu uygulama hakkında harika görüşlerinizle büyüyen topluluğumuza yardım edin.</string>
+
+</resources>

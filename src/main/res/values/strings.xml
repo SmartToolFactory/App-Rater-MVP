@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">AppRaterMVP</string>
+
+    <string name="app_email_address" translatable="false">smarttoolfactory@icloud.com</string>
+    <string name="app_send_email">Send email using...</string>
+    <string name="app_no_email_clients">No email clients installed.</string>
+
+</resources>

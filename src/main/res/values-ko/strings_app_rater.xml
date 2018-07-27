@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_rater_title">이 앱을 평가 해주세요</string>
+    <string name="app_rater_description">5 성급 등급으로이 앱 개발에 기여할 수 있습니다. 이 앱을 개선하는 데 도움을 주시겠습니까?</string>
+    <string name="app_rater_description_low_rating">우리가 어떻게 자신을 향상시킬 수 있는지 알려주십시오.</string>
+    <string name="app_rater_edit_text_hint_comment">여기에 귀하의 의견을 작성하십시오 ...</string>
+    <string name="app_rater_comment_copied">댓글이 클립 보드에 복사됩니다.</string>
+    <string name="app_rater_message_thanks">협조 해 주셔서 감사합니다.</string>
+    <string name="app_rater_star_description_5">매우 좋음</string>
+    <string name="app_rater_star_description_4">좋은</string>
+    <string name="app_rater_star_description_3">나쁜</string>
+    <string name="app_rater_star_description_2">아주 나쁜</string>
+    <string name="app_rater_star_description_1">무서운</string>
+    <string name="app_rater_button_submit">제출</string>
+    <string name="app_rater_button_later">후에</string>
+    <string name="app_rater_button_cancel">아니</string>
+    <string name="app_rater_button_rate_on_store">Play 스토어에서 우리를 평가 해주세요.</string>
+    <string name="app_rater_thanks_5_stars">별 5 개를 가져 주셔서 감사합니다.</string>
+    <string name="app_rater_write_store_review">이 앱에 대한 훌륭한 의견을 통해 성장하는 커뮤니티를 지원하십시오.</string>
+
+</resources>

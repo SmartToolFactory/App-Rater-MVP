@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_rater_title">Оцени это приложение</string>
+    <string name="app_rater_description">Вы можете внести свой вклад в разработку этого приложения с 5-звездочным рейтингом. Вы хотите помочь нам улучшить это приложение?</string>
+    <string name="app_rater_description_low_rating">Пожалуйста, сообщите нам, как мы можем улучшить себя?</string>
+    <string name="app_rater_edit_text_hint_comment">Пожалуйста, напишите свой комментарий здесь ...</string>
+    <string name="app_rater_comment_copied">Ваш комментарий скопирован в буфер обмена.</string>
+    <string name="app_rater_message_thanks">Спасибо за Вашу поддержку.</string>
+    <string name="app_rater_star_description_5">Отлично</string>
+    <string name="app_rater_star_description_4">Хорошо</string>
+    <string name="app_rater_star_description_3">Плохо</string>
+    <string name="app_rater_button_submit">Отправить</string>
+    <string name="app_rater_button_later">Позже</string>
+    <string name="app_rater_button_cancel">нет</string>
+    <string name="app_rater_button_rate_on_store">Оцените нас в Play Маркете</string>
+    <string name="app_rater_thanks_5_stars">Спасибо за 5 звезд.</string>
+    <string name="app_rater_write_store_review">Помогите нашему растущему сообществу с вашим большим мнением об этом приложении.</string>
+    <string name="app_rater_star_description_2">Очень плохо</string>
+    <string name="app_rater_star_description_1">Наихудший</string>
+
+</resources>

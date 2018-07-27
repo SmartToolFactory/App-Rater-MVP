@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#03A9F4</color>
+    <color name="black">#000000</color>
+    <color name="black_200">#2a2a2a</color>
+    <color name="blue_black_dark">#13171d</color>
+    <color name="blue_black_light">#516179</color>
+    <color name="blue_grey_light">#A5B4C8</color>
+    <color name="colorHighlight">#448AFF</color>
+    <color name="color_alt1">#009688</color>
+    <color name="color_alt2">#FFC107</color>
+    <color name="cyan">#b5e3e7</color>
+    <color name="cyan_dark">#70BDC6</color>
+    <color name="cyan_light">#c9ebee</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="icons">#212121</color>
+    <color name="light_blue">#55C8F0</color>
+    <color name="light_green">#78DC96</color>
+    <color name="navy_blue">#214258</color>
+    <color name="navy_blue_dark">#1C3A4E</color>
+    <color name="orange">#FFA500</color>
+    <color name="primary">#9E9E9E</color>
+    <color name="primary_dark">#616161</color>
+    <color name="primary_light">#F5F5F5</color>
+    <color name="primary_text">#212121</color>
+    <color name="red_dark">#F06423</color>
+    <color name="red_dark2">#D85A1B</color>
+    <color name="secondary_text">#757575</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#fff44f</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_email_address" translatable="false">smarttoolfactory@icloud.com</string>
+    <string name="app_name" translatable="false">AppRaterMVP</string>
+    <string name="app_no_email_clients">No email clients installed.</string>
+    <string name="app_rater_button_cancel">No</string>
+    <string name="app_rater_button_later">Later</string>
+    <string name="app_rater_button_rate_on_store">Rate us on Play Store</string>
+    <string name="app_rater_button_submit">Submit</string>
+    <string name="app_rater_comment_copied">Your comment is copied to clipboard.</string>
+    <string name="app_rater_description"> You can contribute to development of this app with your 5 star rating. Would you like to help us improve this app?</string>
+    <string name="app_rater_description_low_rating">Please let us know, how can we improve ourselves?</string>
+    <string name="app_rater_edit_text_hint_comment">Please write your comment here …</string>
+    <string name="app_rater_message_thanks">Thank you for your support.</string>
+    <string name="app_rater_star_description_1">Hated it</string>
+    <string name="app_rater_star_description_2">Disliked it</string>
+    <string name="app_rater_star_description_3">It\'s OK</string>
+    <string name="app_rater_star_description_4">Liked it</string>
+    <string name="app_rater_star_description_5">Loved it</string>
+    <string name="app_rater_thanks_5_stars">Thanks for the 5 stars.</string>
+    <string name="app_rater_title">Rate Us</string>
+    <string name="app_rater_write_store_review">Help our growing community with a your great opinions about this app.</string>
+    <string name="app_send_email">Send email using...</string>
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

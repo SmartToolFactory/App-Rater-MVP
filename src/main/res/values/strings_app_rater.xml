@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Rater -->
+    <string name="app_rater_title">Rate Us</string>
+    <string name="app_rater_description"> You can contribute to development of this app with your 5 star rating. Would you like to help us improve this app?</string>
+    <string name="app_rater_description_low_rating">Please let us know, how can we improve ourselves?</string>
+    <string name="app_rater_edit_text_hint_comment">Please write your comment here &#8230;</string>
+    <string name="app_rater_comment_copied">Your comment is copied to clipboard.</string>
+    <string name="app_rater_message_thanks">Thank you for your support.</string>
+
+    <!-- Ratings -->
+    <string name="app_rater_star_description_5">Loved it</string>
+    <string name="app_rater_star_description_4">Liked it</string>
+    <string name="app_rater_star_description_3">It\'s OK</string>
+    <string name="app_rater_star_description_2">Disliked it</string>
+    <string name="app_rater_star_description_1">Hated it</string>
+
+    <!-- Buttons -->
+    <string name="app_rater_button_submit">Submit</string>
+    <string name="app_rater_button_later">Later</string>
+    <string name="app_rater_button_cancel">No</string>
+    <string name="app_rater_button_rate_on_store">Rate us on Play Store</string>
+
+    <!-- App Store Rate Window -->
+    <string name="app_rater_thanks_5_stars">Thanks for the 5 stars.</string>
+    <string name="app_rater_write_store_review">Help our growing community with a your great opinions about this app.</string>
+
+</resources>
